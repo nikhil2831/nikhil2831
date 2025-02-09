@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    text-align: center; 
+    
+}
+
+div{
+    
+    border: 2px solid   black;
+    height:130px;
+    width:267px;
+    margin: auto;
+
+}
